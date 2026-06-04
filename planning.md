@@ -11,7 +11,7 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
----
+Student Reviews of CS Professors
 
 ## Documents
 
@@ -20,16 +20,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Thomas Austin | The best professors at SJSU. In every aspect of professing, he excels. I had major skill issue in the class, but the prof was chill and covered a lot of topics. First half of sem goes to Scheme, and the second half goes over a bunch of languages, you learn a new one each week. JS, ANTLR, Prolog, Ruby, Rust, Solidity, Inform, C, LaTEX. HW after every class. Tests are hard, but he seems lenient with partial credit.| https://www.ratemyprofessors.com/professor/2000580 |
+| 2 | Mark Stamp | the professor is very educated in the field of security and machine learning, he has a high index and his cs 166 course is very useful and gives a fundmental understanding of infromation security , homeworks are very useful, over all this one of the few classes at sjsu cs department that are actually worth the money we are paying for. | https://www.cs.sjsu.edu/~stamp/ |
+| 3 | Fabio Di Troia | Prof Fabio was amazing, funny, clear about his expectations, and caring for students. He understood students' difficulties and told us which topics to emphasize on. His lectures were well delivered. He reviewed important topics and gave us mock exams to study for the tests. The tests were not easy, make sure you pay attention and fully understand. | https://www.fabiodt.it/ |
+| 4 | Ramin Moazeni | Prof. Ramin really knows his stuff and explains concepts clearly with great slides and examples. Lectures are organized, thorough, and he always connects topics to real industry use. He's approachable, patient with questions, and does helpful recaps. Assignments are challenging but super practical and helps with learning. | https://www.ratemyprofessors.com/professor/2059935 |
+| 5 | Teng Moh | Does not use Canvas; you will never know your score until the end. Even though attendance is "not mandatory", the assignments are not posted anywhere online, so good luck knowing what to submit if you don't go. Grading is inconsistent. Takes off lots of points for no reason. He is late with final grades, which can screw up degree conferral if you're graduating. | https://www.cs.sjsu.edu/~tsmoh/ |
+| 6 | Rob Chun | Communication is poor. The material is old and needs to be updated. Projects need to be more hands-on to have a greater impact on a student's career or output. Overall, ok, but the delivery of the lecture could improve. Yet, class can be easy as long as you study, hopefully easy A or B. | https://www.ratemyprofessors.com/professor/216637 |
+| 7 | C. Ouverney | His lectures are very informative and to the point. He makes a helpful study guide and allowed a cheat sheet on exams. The online quizzes had two attempts and weren't bad. He cares a lot about the topic and is easy to work with. I'd take him again. | https://www.sjsu.edu/biology/research/ouverney-lab/index.php |
+| 8 | N. Saxena | Prof Saxena is one of the sweetest, most caring professors I've had. She genuinely cares about her students, and is quite funny. The classes are fun to attend, and she teaches really well. The exams are manageable, especially if you study the content and attend the SI sessions. Would highly recommend taking her class. If you get the chance to take her, you will have a great time and learn a lot without being too stressed out. She's pro-student, a great lecturer, and assigns minimal busy work so we can focus on deep understanding. I hope I can take her again. | https://www.sjsu.edu/people/navrati.saxena/ |
+| 9 | Eric Reed | Very nice professor. Short lecture videos adding up to maybe 40 minutes total? Watch the videos before lab. In person lab is graded based on attendance but still do for learning. I'm not good at math but genuinely enjoyed this class. Midterm and final are based on methods/math than coding. There is a final pair project but nothing too bad. Yay! Enjoyable class! Professor is very helpful, structures everything well, and provides clear and detailed project specs. Each week cumulatively builds on the last in a project spanning the entire quarter. Encourages students to help each other (but not collaborate) in the forums. | https://www.ratemyprofessors.com/professor/2387897 |
+| 10 | Leonard Wesley | This professor seems confused about what he is teaching. He gets lost on basic points, and has lifted all his slides from other curricula. He does not seem to understand his material. He cannot follow along when students discuss their projects, and he has no clear rubric for assignments that define your entire grade. TAs grade using ChatGPT. During class: Gives good lectures; responds in class very well. Outside class: Uses websites that update their content, while he does not update his step by step instruction, resulting in major confusion and incomplete assignments. Overall: click bait assignments; tolerates academic dishonesty; slow to respond. FYI: Choose other degree OR school. Lectures, slideshow, and textbook ALL CONTRADICT EACH OTHER. Tests are open book, but difficult due to how disorganized or contradictory the info was. I can confidently say this was the worst professor I've had in my entire academic career. I advise you to avoid him.| https://www.cs.sjsu.edu/~wesley/ |
 
 ---
 
